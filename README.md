@@ -2,8 +2,7 @@
 
 ## 📌 Objective
 
-Analyze healthcare data to identify revenue drivers, high-value patients, and doctor performance for better business decision-making.
-
+Analyze healthcare data to identify revenue drivers, high-value patients, and doctor performance to support hospital decision-making.
 ---
 
 ## 🛠 Tools Used
@@ -28,19 +27,19 @@ The dataset includes structured healthcare data containing:
 
 ## 🔍 Key Business Questions
 
-- Which treatments contribute the most to overall revenue?  
-- Who are the top revenue-generating doctors?  
-- Which patients contribute the highest total spending?  
-- How is revenue distributed across treatments and patients?  
+- Which treatments contribute the highest revenue?
+- Who are the top revenue-generating doctors?
+- Which patients contribute the most to total spending?
+- How is revenue distributed across treatments and patients?
 
 ---
 
 ## 📊 Key Insights
 
-- Top 3 treatments contribute the majority of hospital revenue  
-- A small percentage of patients account for high total spending  
+- Top treatments contribute a major portion of total hospital revenue  
+- A small group of patients accounts for high overall spending  
 - Certain doctors consistently generate higher revenue than others  
-- Some treatments have high frequency but lower profitability  
+- Some treatments have high frequency but relatively lower profitability  
 
 ---
 
