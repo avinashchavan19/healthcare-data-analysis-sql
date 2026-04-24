@@ -54,11 +54,20 @@ The dataset contains information about:
 
 Below are key outputs from SQL analysis:
 
+### 👤 Patients summary
+![Patients summary](screenshots/patient_summary.png)
+
+### High value patients
+![High value patients](screenshots/high_value_patients.png)
+
 ### 💰 Doctors Performance
 ![Doctors Performance](screenshots/Doctor_performance.png)
 
-### 👤 Patients summary
-![Patients summary](screenshots/patient_summary.png)
+### 👤 Hospitalwise doctor ranking
+![Hospitalwise doctor ranking](screenshots/Hospitalwise_doctor_ranking.png)
+
+## 💰 revenue by treatments
+![revenue by treatments](screenshots/revenue_by_treatments.png)
 
 
 ---
