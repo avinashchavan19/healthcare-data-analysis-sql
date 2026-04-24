@@ -92,8 +92,6 @@ GROUP BY doctor_id;
 ```
 ---
 
----
-
 ## 🚀 Outcome
 
 This analysis helps in:
@@ -103,7 +101,7 @@ This analysis helps in:
 - Evaluating doctor performance  
 - Supporting data-driven hospital decisions
 
-  ---
+---
 
   ## ⚠️ Limitations
 
