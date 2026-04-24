@@ -52,7 +52,14 @@ The dataset contains information about:
 
 ## 📷 Sample Query Output
 
-(Add screenshots here)
+Below are key outputs from SQL analysis:
+
+### 💰 Doctors Performance
+![Doctors Performance](screenshots/Doctors_performance.png)
+
+### 👤 Patients summary
+![Patients summary](screenshots/patient_summary.png)
+
 
 ---
 
