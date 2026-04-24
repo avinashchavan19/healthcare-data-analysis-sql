@@ -92,13 +92,6 @@ GROUP BY doctor_id;
 
 ---
 
-## 🚀 11. Outcome
-
-### ❌ Current:
-Basic
-
-### ✅ Improve to:
-
 ## 🚀 Outcome
 
 This analysis helps in:
