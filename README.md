@@ -55,7 +55,7 @@ The dataset contains information about:
 Below are key outputs from SQL analysis:
 
 ### 💰 Doctors Performance
-![Doctors Performance](screenshots/Doctors_performance.png)
+![Doctors Performance](screenshots/Doctor_performance.png)
 
 ### 👤 Patients summary
 ![Patients summary](screenshots/patient_summary.png)
