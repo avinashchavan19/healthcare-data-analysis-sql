@@ -83,11 +83,13 @@ Below are key outputs from SQL analysis:
 
 ## 🔍 Sample SQL Query
 
+```sql
 SELECT doctor_id,
        SUM(cost) AS revenue,
        RANK() OVER (ORDER BY SUM(cost) DESC) AS rank
 FROM treatments
 GROUP BY doctor_id;
+```
 ---
 
 ---
